@@ -1,0 +1,5 @@
+print("Hello world!!")
+print("Hola mundo!!")
+print( "My name is Joshua" )
+print( "I am in grade 9" )
+print( "My favourite subject is Math" )
